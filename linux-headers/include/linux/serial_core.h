@@ -227,7 +227,7 @@
 /* Energy Micro efm32 SoC */
 #define PORT_EFMUART   100
 
-/* ARC (Synopsys) on-chip UART */
+/* MIPS ARC on-chip UART */
 #define PORT_ARC       101
 
 /* Rocketport EXPRESS/INFINITY */
